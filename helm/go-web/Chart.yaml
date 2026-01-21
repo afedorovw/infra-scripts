@@ -1,0 +1,10 @@
+apiVersion: v2
+name: App.HelmChart
+description: 'a simple web application on golang'
+type: application
+version: 0.1.0
+appVersion: '0.1.1'
+
+keywords:
+  - http
+  - go

@@ -44,3 +44,9 @@ docker.io/grafana/grafana:12.3.0
 ```
 docker-compose -f name.yaml up -d 
 ```
+
+---
+
+### Helm
+
+Деплой веб приложения на Go. Использует образ из локального репозитория. 

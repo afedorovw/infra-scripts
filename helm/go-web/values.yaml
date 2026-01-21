@@ -1,0 +1,4 @@
+container:
+  image: go-web:ver2
+
+targetHost: wsl.local
